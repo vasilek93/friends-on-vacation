@@ -18,6 +18,9 @@ import com.itextpdf.text.TabSettings;
 import com.itextpdf.text.pdf.PdfPCell;
 import com.itextpdf.text.pdf.PdfPTable;
 import com.itextpdf.text.pdf.PdfWriter;
+/*
+* Class that represents PDF documents and contains the methods for adding content to PDF document.
+*/
 
 public class PdfDocument {
 	
