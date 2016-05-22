@@ -16,6 +16,9 @@ import java.awt.event.ActionListener;
 import java.awt.event.FocusAdapter;
 import java.awt.event.FocusEvent;
 import java.awt.event.ActionEvent;
+/*
+* Class that represents graphical user interface (frame, tables, text fields, buttons).
+*/
 
 public class View {
 
