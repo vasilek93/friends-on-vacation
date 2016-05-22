@@ -1,6 +1,9 @@
 package friendsOnVacation;
 
 import java.util.List;
+/*
+* Class that calls method of creating pdf when the button Save to PDF is pressed.  
+*/
 
 public class PdfControl implements java.awt.event.ActionListener {
 	private PdfDocument document;
