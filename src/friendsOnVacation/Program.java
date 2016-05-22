@@ -2,6 +2,11 @@ package friendsOnVacation;
 
 import java.util.ArrayList;
 import java.util.List;
+/*
+* Class that hold main data processing methods, it saves expenses to list of friends,
+* checks for errors in the input data, calculates average and sum of expenses, 
+* finds transactions to be made.
+*/
 
 public class Program {	
 	
