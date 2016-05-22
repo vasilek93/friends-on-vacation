@@ -10,7 +10,7 @@ import javax.swing.SpringLayout;
 import javax.swing.JLabel;
 import java.awt.Font;
 /*
-* Short user manual (opens when ? button is pressed)
+* Short user manual (is opened when ? button is pressed)
 */
 
 public class Help extends JFrame {
