@@ -5,9 +5,10 @@ an expense details - name of person, who made an expense, type of expense (e.g. 
 entertainment, hotel etc.) and amoun of an expense. Then program calculates sum of 
 all expenses made, average expense value and number of friends (according to the number
 of different friends' names).
+
 To execute program run Main.java
 
-Here I provide short user manual.
+Here I provide short user manual. You can also open this information by pressing "?" button in the program's window!
 1. To add new expense that a friend made, type an expense details in text fields and press Save button.
     1.1. Name must not be empty. You also cannot leave default expression in the name text field.
     1.2. Expense type is not mandatory field. If You leave there default expression, it will be called "not defined".
